@@ -21,6 +21,8 @@
 ![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-555?style=flat&logo=grafana)&nbsp;
+![Twitter Follow](https://img.shields.io/twitter/follow/irfanmayendra?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCH9VLBANAxtvJsSaWh34RFw?style=social)
 
 <tr>
         <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanmayendra&theme=tokyonight"/></a></td>
