@@ -25,12 +25,6 @@
 <tr>
         <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=irfanmayendra&theme=tokyonight"/></a></td>
     </tr>
-    
-    
-    
-    <a href="https://app.daily.dev/irfanmayendra"><img src="https://api.daily.dev/devcards/6eb9a2ae938f403f85da96503dc83b17.png?r=adj" width="400" alt="irfan mayendra putra's Dev Card"/></a>
-![](./src/header_.png)
-
 
     <tr>
         <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/irfanmayendra#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/irfanmayendra/irfanmayendra/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
