@@ -1,6 +1,7 @@
 <p align="center">
     <a href="https://github.com/irfanmayendra/irfanmayendra"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.9-FF1493.svg"></a>
+    <a href="https://github.com/java/cjava"><img src="https://img.shields.io/badge/Java-3.9-FF1493.svg"></a>
     <a href="https://github.com/irfanmayendra/irfanmayendra/graphs/contributors"><img src="https://img.shields.io/github/contributors/irfanmayendra/irfanmayendra?color=blue"></a>
     <a href="https://github.com/irfanmayendra"><img src="https://img.shields.io/github/stars/irfanmayendra.svg?color=blue&logo=github"></a>
     <a href="https://github.com/irfanmayendra/irfanmayendra/network/members"><img src="https://img.shields.io/github/forks/irfanmayendra/irfanmayendra.svg?color=blue&logo=github"></a>
@@ -12,13 +13,16 @@
 ## 🛠️ Tech Stack:
 
 ![Java](https://img.shields.io/badge/Java-Java%20Spring-brightgreen)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-555?style=flat&logo=node.js)&nbsp;
+![Angular](https://img.shields.io/badge/-angular-555?style=flat&logo=angular)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-555?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-555?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-555?style=flat&logo=gitlab)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-555?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-555?style=flat&logo=Docker)\
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-555?style=flat&logo=Kubernetes)\
 ![Grafana](https://img.shields.io/badge/-Grafana-555?style=flat&logo=grafana)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-555?style=flat&logo=prometheus)&nbsp;
+![Datadog](https://img.shields.io/badge/-Datadog-555?style=flat&logo=Datadog)&nbsp;
 ![Twitter Follow](https://img.shields.io/twitter/follow/irfanmayendra?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCH9VLBANAxtvJsSaWh34RFw?style=social)
 
